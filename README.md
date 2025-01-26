@@ -35,7 +35,7 @@ Quiz Busters is a dynamic, real-time quiz platform built using modern web techno
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-busters.git
+   git clone https://github.com/shubham001official/quiz-busters.git
    ```
 
 2. Navigate to the project directory:
